@@ -1335,6 +1335,10 @@ This section will focus on Level assets and their internals.
 
 > 6.4 [Marketplace Specific Rules](#evels-levels-mp-rules)
 
+> 6.5 [World Composition](#levels-world-composition)
+
+> 6.6 [World Partition](#levels-world-partition)
+
 <a name="6.1"></a>
 <a name="levels-no-errors-or-warnings"></a>
 ### 6.1 No Errors Or Warnings
@@ -1382,6 +1386,12 @@ If your project contains assets that should be demoed or come with some sort of 
 If your project is a gameplay mechanic or other form of system as opposed to an art pack, this can be the same as your "Overview" map.
 
 For example, `InteractionComponent_Overview_Demo`, `ExplosionKit_Demo`.
+
+<a name="6.5"></a>
+<a name="levels-world-composition"></a>
+
+<a name="6.5"></a>
+<a name="levels-world-composition"></a>
 
 **[⬆ Back to Top](#table-of-contents)**
 
