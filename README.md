@@ -1389,9 +1389,11 @@ For example, `InteractionComponent_Overview_Demo`, `ExplosionKit_Demo`.
 
 <a name="6.5"></a>
 <a name="levels-world-composition"></a>
+### 6.5 World Composition
 
-<a name="6.5"></a>
-<a name="levels-world-composition"></a>
+<a name="6.6"></a>
+<a name="levels-world-partition"></a>
+### 6.6 World Partition
 
 **[⬆ Back to Top](#table-of-contents)**
 
